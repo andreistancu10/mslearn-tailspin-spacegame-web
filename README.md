@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/andreistancu0583/Demo-app%20.NET%20Application/_apis/build/status/andreistancu10.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/andreistancu0583/Demo-app%20.NET%20Application/_build/latest?definitionId=6&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
